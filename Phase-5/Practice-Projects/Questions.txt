@@ -1,0 +1,4 @@
+## Phase-5 Practice Project
+
+1. Automate a Web Application - Selenium.
+2. Automate the Web Application - TestNG.
